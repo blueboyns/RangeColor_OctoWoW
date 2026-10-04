@@ -13,5 +13,6 @@ then it will shade the hotkey text only instead of the entire icon.
 
 
 Also you have "Filter" and "Slash" options:
-"Filter" will change the text of the hotkey, for example, from "Alt-1" to "A-1".
-And "Slash" will change it, form "A-1" to "A1". Same goes for Shift and Ctrl.
+- "Filter" will change the text of the hotkey, for example, from "Alt-1" to "A-1".
+- And "Slash" will change it, form "A-1" to "A1".
+- Same goes for Shift and Ctrl.
