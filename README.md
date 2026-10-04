@@ -1,5 +1,5 @@
 # RangeColor_OctoWoW
-Rework of existing RangeColor addon so it can work flawlessly on OctoWoW client.
+Rework of existing RangeColor addon so it can work nicely on OctoWoW client.
 
 Changes the icon color and/or HotKey text color when the skill is out of range, has no mana or isn't usable.
 type /rc or /rangecolor to open Configuration menu where you can select colors and set the desired mode of the addon with the slider.
