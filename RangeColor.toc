@@ -1,0 +1,9 @@
+## Interface: 11200
+## Title: RangeColor_OctoWoW
+## Notes: Change the icon color when out of range, no mana, etc. Use << /rc >> or << /rangecolor >> for the options menu.
+## Author: Edswor, adapted for OctoWoW by livians + DeepSeek 4 pro
+## OptionalDeps: myAddOns
+## SavedVariablesPerCharacter: RangeColor_Save2
+RangeColor.xml
+RangeColorOptions.xml
+
