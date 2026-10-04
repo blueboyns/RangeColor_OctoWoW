@@ -4,6 +4,6 @@
 ## Author: Edswor, adapted for OctoWoW by livians + DeepSeek 4 pro
 ## OptionalDeps: myAddOns
 ## SavedVariablesPerCharacter: RangeColor_Save2
-RangeColor_OctoWoW.xml
+RangeColor.xml
 RangeColorOptions.xml
 
