@@ -16,3 +16,6 @@ Also you have "Filter" and "Slash" options:
 - "Filter" will change the text of the hotkey, for example, from "Alt-1" to "A-1".
 - And "Slash" will change it, form "A-1" to "A1".
 - Same goes for Shift and Ctrl.
+
+![Description of image](images/rc1.png)
+![Description of image](images/rc2.png)
