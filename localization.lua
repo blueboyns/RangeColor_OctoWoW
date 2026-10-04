@@ -1,6 +1,6 @@
 --Version--------------------------------------------------
-RANGECOLOR_VERSION = "v1.9";
-RANGECOLOR_RELEASE = "14 October 2005";
+RANGECOLOR_VERSION = "v1.0";
+RANGECOLOR_RELEASE = "4 October 2026";
 
 --English--------------------------------------------------
 if (GetLocale() == "enUS") then
