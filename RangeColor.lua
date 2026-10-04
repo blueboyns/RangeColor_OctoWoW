@@ -1,9 +1,9 @@
 --[[
 
-	Range Color: Change the icon color when out of range, no mana, etc;
+	Range Color: Changes the icon color and/or HotKey text color when the skill is out of range, has no mana or isn't usable etc;
 								also it shows the hotkeys for the extra Blizzard Bars.
 
-	Made by: Edswor
+	Made by: Edswor, adapted for OctoWoW by livians + DeepSeek 4 pro
 	Vanilla 1.12.1 compatibility fixes applied.
 
 	Commands: /rangecolor  or  /rc
